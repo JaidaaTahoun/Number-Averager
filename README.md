@@ -1,1 +1,1 @@
-# Number-Averager
+This code prompts the user to enter the name of a file, then allows the user to input multiple numbers, writing each number to the file as long as the input is not a period ('.'). If the input is not a valid number, it catches the error and exits. After collecting numbers, it calculates and prints the average of these numbers by reading them back from the file. If there are no numbers or an error occurs during file reading, it handles these cases gracefully with error messages.
